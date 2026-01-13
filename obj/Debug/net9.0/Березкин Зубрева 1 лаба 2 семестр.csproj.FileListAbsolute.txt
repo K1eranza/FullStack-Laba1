@@ -1,0 +1,15 @@
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\bin\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.exe
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\bin\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.deps.json
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\bin\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.runtimeconfig.json
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\bin\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.dll
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\bin\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.pdb
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.AssemblyInfoInputs.cache
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.AssemblyInfo.cs
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.csproj.CoreCompileInputs.cache
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.sourcelink.json
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.dll
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\refint\Березкин Зубрева 1 лаба 2 семестр.dll
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.pdb
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\Березкин Зубрева 1 лаба 2 семестр.genruntimeconfig.cache
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\obj\Debug\net9.0\ref\Березкин Зубрева 1 лаба 2 семестр.dll
