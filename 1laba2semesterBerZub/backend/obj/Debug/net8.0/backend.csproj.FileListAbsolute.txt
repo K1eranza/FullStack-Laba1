@@ -1,0 +1,15 @@
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\bin\Debug\net8.0\backend.exe
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\bin\Debug\net8.0\backend.dll
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.dll
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\Student_05\Documents\Березкин Зубрева 1 лаба 2 семестр\1laba2semesterBerZub\backend\obj\Debug\net8.0\ref\backend.dll
